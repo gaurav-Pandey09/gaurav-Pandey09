@@ -59,5 +59,4 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
-act" alt="gaurav-pandey09" /></p>
+
