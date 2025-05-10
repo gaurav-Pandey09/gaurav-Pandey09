@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on **my portfolio**
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **React.js, Vue.js**
-- 📫 How to reach me: **gauravizhere181@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1c3roBR738vhDtzldPITOATCGIMqCCpZy/view?usp=sharing)
+- 📫 How to reach me: **gauravizhere180@gmail.com**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1fLRnWchRj4Wi7xqlGnbHRABJLjhXhlLI/view?usp=sharing)
 
 ---
 
@@ -44,7 +44,7 @@
 ---
 
 <div align="left">
-  <a href="mailto:gauravizhere181@gmail.com">
+  <a href="mailto:gauravizhere180@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/gaurav-pandey-75607b172" target="_blank">
