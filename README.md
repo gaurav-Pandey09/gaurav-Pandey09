@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Gaurav Pandey
 
-<!--
-**gaurav-Pandey09/gaurav-Pandey09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am not a CS degree holder because not everyone can afford one.
 
-Here are some ideas to get you started:
+### 💻 What am I doing?
+- Building React Apps
+- Getting to know CSS better
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I have been doing?
+- Building Clones
+- Preparing for the neoG Camp Admission Interview
+- Completing neoG Camp Assignments
+- Learning HTML, CSS, and JavaScript
+
+Trust me, mastering a technology is not at all easy. I am just trying to get better at some.
+
+### 🧰 Familiar with:
+- HTML
+- CSS
+- JavaScript
+- React
+
+### 🤝 Would like to connect? Here's how:
+- [LinkedIn](https://www.linkedin.com/in/gaurav-pandey-75607b172/)
