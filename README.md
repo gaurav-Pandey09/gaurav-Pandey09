@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | React.js, Vue.js, TypeScript</h3>
 
 <p align="center">
-  📍 Noida, India &nbsp; | &nbsp; 📧 gauravizhere181@gmail.com &nbsp; | &nbsp;
+  📍 Noida, India &nbsp; | &nbsp; 📧 gauravizhere180@gmail.com &nbsp; | &nbsp;
   <a href="https://www.linkedin.com/in/gaurav-pandey-75607b172" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
   <a href="https://github.com/gaurav-Pandey09" target="_blank">GitHub</a>
 </p>
