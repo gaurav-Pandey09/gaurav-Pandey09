@@ -1,25 +1,63 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey</h1>
-<h3 align="center">🎯 Frontend Developer | React.js, Vue.js, TypeScript 📍 Location: Noida, India 📧 Email: gauravizhere181@gmail.com 🔗 LinkedIn: linkedin.com/in/gaurav-pandey-75607b172 💻 GitHub: gauravizhere181</h3>
+<h3 align="center">Frontend Developer | React.js, Vue.js, TypeScript</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-pandey09&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-pandey09" /> </p>
-
-- 🔭 I’m currently working on **my portfolio.**
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **React.js, Vue.js**
-
-- 📫 How to reach me **gauravizhere180@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c3roBR738vhDtzldPITOATCGIMqCCpZy/view?usp=sharing](https://drive.google.com/file/d/1c3roBR738vhDtzldPITOATCGIMqCCpZy/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-pandey-75607b172/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-pandey-75607b172/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gaurav-pandey09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gaurav-pandey09/" height="30" width="40" /></a>
+<p align="center">
+  📍 Noida, India &nbsp; | &nbsp; 📧 gauravizhere181@gmail.com &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/gaurav-pandey-75607b172" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://github.com/gaurav-Pandey09" target="_blank">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-pandey09&show_icons=true&locale=en&layout=compact" alt="gaurav-pandey09" /></p>
+- 🔭 I’m currently working on **my portfolio**
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **React.js, Vue.js**
+- 📫 How to reach me: **gauravizhere181@gmail.com**
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1c3roBR738vhDtzldPITOATCGIMqCCpZy/view?usp=sharing)
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="Webpack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-Pandey09&show_icons=true&theme=dracula" height="150" alt="Gaurav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-Pandey09&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
+---
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+
+---
+
+<div align="left">
+  <a href="mailto:gauravizhere181@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav-pandey-75607b172" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<br clear="both">
+
+![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
+act" alt="gaurav-pandey09" /></p>
