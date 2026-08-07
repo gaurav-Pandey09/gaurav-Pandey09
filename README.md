@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **React.js, Vue.js**
 - 📫 How to reach me: **gauravizhere180@gmail.com**
-- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1FFbfihYZc-mw-I8p6RNpbIOUwU3pQ6ri/view?usp=drive_link](https://drive.google.com/file/d/1hjxtoSvxN047QIk2S42IC6yfD_Jl_QRr/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1FFbfihYZc-mw-I8p6RNpbIOUwU3pQ6ri/view?usp=drive_link)
 
 ---
 
